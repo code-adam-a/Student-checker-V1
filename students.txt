@@ -1,0 +1,9 @@
+biscuit, 100, distinction
+piglet, 100, distinction
+layla, 100, distinction
+geff, 98, distinction
+milo, 78, distinction
+otty, 78, distinction
+mr red, 54, merit
+gandalf, 1, fail
+adam, 0, fail
